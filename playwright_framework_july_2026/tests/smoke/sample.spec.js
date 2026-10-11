@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test.describe("Sample Test",{tags:["sample"]},()=>{
+test.describe("Sample Test created",{tags:["sample"]},()=>{
     
     test('TC001', async ({ page }) => {
         
