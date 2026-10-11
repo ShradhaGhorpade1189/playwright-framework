@@ -1,0 +1,9 @@
+{
+        "Name": "Shradha",
+        "Email": "ssg@email.com",
+        "Password": "Shradha@123",
+        "Interests": ["JAVA", "Selenium"],
+        "Gender": ["Female","Male"],
+        "State": "Maharashtra",
+        "Hobbies": ["Reading", "Playing","Traveling"]
+}
